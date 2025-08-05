@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\restriction_projection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\restriction_projection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB095FC3-C682-4344-8279-6B6E93C00FEA}|LINQ_Example1\\LINQ_Example1.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\linq_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB095FC3-C682-4344-8279-6B6E93C00FEA}|LINQ_Example1\\LINQ_Example1.csproj|solutionrelative:linq_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:42:57.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2023889350:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grouping.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Grouping.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Grouping.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:53:57.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Restriction_Projection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Restriction_Projection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Restriction_Projection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:51:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Join.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Join.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Join.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwGsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:40:40.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
+              "RelativeDocumentMoniker": "Main\\Data.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
+              "RelativeToolTip": "Main\\Data.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:33:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ordering.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Ordering.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Ordering.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:40:17.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Example1\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
+              "RelativeToolTip": "LINQ_Example1\\Program.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:11:46.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
