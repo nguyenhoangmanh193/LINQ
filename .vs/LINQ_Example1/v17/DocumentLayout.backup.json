@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs*",
-              "RelativeToolTip": "Main\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAABaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T03:42:57.123Z",
               "IsPinned": true,
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Grouping.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
               "RelativeDocumentMoniker": "Main\\Standard_Operations\\Grouping.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
               "RelativeToolTip": "Main\\Standard_Operations\\Grouping.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T09:53:57.111Z",
               "EditorCaption": ""

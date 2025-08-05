@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -51,8 +51,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T03:42:57.123Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -63,18 +62,6 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Grouping.cs",
@@ -82,7 +69,7 @@
               "RelativeDocumentMoniker": "Main\\Standard_Operations\\Grouping.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
               "RelativeToolTip": "Main\\Standard_Operations\\Grouping.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwCUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDQAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T09:53:57.111Z",
               "EditorCaption": ""
@@ -97,8 +84,7 @@
               "RelativeToolTip": "Main\\Standard_Operations\\Restriction_Projection.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwDMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:51:18.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T07:51:18.286Z"
             },
             {
               "$type": "Document",
@@ -110,8 +96,7 @@
               "RelativeToolTip": "Main\\Standard_Operations\\Join.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAcwGsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:40:40.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T07:40:40.197Z"
             },
             {
               "$type": "Document",
@@ -123,8 +108,7 @@
               "RelativeToolTip": "Main\\Data.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:33:11.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T07:33:11.512Z"
             },
             {
               "$type": "Document",
@@ -136,8 +120,7 @@
               "RelativeToolTip": "Main\\Standard_Operations\\Ordering.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:40:17.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T07:40:17.112Z"
             },
             {
               "$type": "Document",
@@ -149,8 +132,19 @@
               "RelativeToolTip": "LINQ_Example1\\Program.cs",
               "ViewState": "AgIAAMUAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T11:11:46.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T11:11:46.021Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
