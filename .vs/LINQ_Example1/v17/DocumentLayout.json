@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
@@ -83,12 +87,181 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\.gitignore",
+              "RelativeDocumentMoniker": "Main\\.gitignore",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\.gitignore",
+              "RelativeToolTip": "Main\\.gitignore",
+              "ViewState": "AgIAABoBAAAAAAAAAAAQwDABAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-06T09:52:01.789Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:2023889350:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Conversion.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Conversion.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Conversion.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Conversion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:37:20.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aggregate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Aggregate.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Aggregate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Aggregate.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Aggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:20:54.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Set.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Set.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Set.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Set.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Set.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:14:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
+              "RelativeDocumentMoniker": "Main\\Data.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
+              "RelativeToolTip": "Main\\Data.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:33:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Generation.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Generation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Generation.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Generation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:51:32.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grouping.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Grouping.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Grouping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:53:57.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Join.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Join.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Join.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:40:40.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Element.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Element.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Element.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Element.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:20:17.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Restriction_Projection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Restriction_Projection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Restriction_Projection.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:51:18.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quantifier.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Quantifier.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Quantifier.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Quantifier.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Quantifier.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:16:48.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Partitioning.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Partitioning.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Partitioning.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Partitioning.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Partitioning.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:47:23.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ordering.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Ordering.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Ordering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:40:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Example1\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
+              "RelativeToolTip": "LINQ_Example1\\Program.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:11:46.021Z"
             },
             {
               "$type": "Bookmark",
@@ -99,176 +272,8 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Conversion.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Conversion.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Conversion.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Conversion.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Conversion.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwB0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:37:20.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aggregate.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Aggregate.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Aggregate.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Aggregate.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Aggregate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:20:54.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Set.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Set.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Set.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Set.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Set.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:14:52.132Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
-              "RelativeDocumentMoniker": "Main\\Data.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
-              "RelativeToolTip": "Main\\Data.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:33:11.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Generation.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Generation.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Generation.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Generation.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Generation.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:51:32.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Grouping.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Grouping.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Grouping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T09:53:57.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Join.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Join.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Join.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:40:40.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Element.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Element.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Element.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Element.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Element.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvwkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T03:20:17.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Restriction_Projection.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Restriction_Projection.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Restriction_Projection.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:51:18.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Quantifier.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Quantifier.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Quantifier.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Quantifier.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Quantifier.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:16:48.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Partitioning.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Partitioning.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Partitioning.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Partitioning.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Partitioning.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T03:47:23.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Ordering.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Ordering.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Ordering.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:40:17.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ_Example1\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
-              "RelativeToolTip": "LINQ_Example1\\Program.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T11:11:46.021Z"
             }
           ]
         }
