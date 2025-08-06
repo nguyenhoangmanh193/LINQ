@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\grouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\quantifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\quantifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\restriction_projection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\restriction_projection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB095FC3-C682-4344-8279-6B6E93C00FEA}|LINQ_Example1\\LINQ_Example1.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\linq_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB095FC3-C682-4344-8279-6B6E93C00FEA}|LINQ_Example1\\LINQ_Example1.csproj|solutionrelative:linq_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\partitioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\partitioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|c:\\users\\admin\\source\\repos\\linq_example1\\main\\standard_operations\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983798CB-3905-4569-B362-159E7FB7E1C6}|Main\\Main.csproj|solutionrelative:main\\standard_operations\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LINQ_Example1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +66,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Program.cs",
               "RelativeToolTip": "Main\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T03:42:57.123Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -62,14 +91,91 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Conversion.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Conversion.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Conversion.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Conversion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:37:20.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aggregate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Aggregate.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Aggregate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Aggregate.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Aggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:20:54.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Set.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Set.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Set.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Set.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Set.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:14:52.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
+              "RelativeDocumentMoniker": "Main\\Data.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
+              "RelativeToolTip": "Main\\Data.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:33:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Generation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Generation.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Generation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Generation.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Generation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:51:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Grouping.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
               "RelativeDocumentMoniker": "Main\\Standard_Operations\\Grouping.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Grouping.cs",
               "RelativeToolTip": "Main\\Standard_Operations\\Grouping.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwDQAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T09:53:57.111Z",
               "EditorCaption": ""
@@ -77,54 +183,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Restriction_Projection.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
-              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Restriction_Projection.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
-              "RelativeToolTip": "Main\\Standard_Operations\\Restriction_Projection.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:51:18.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Join.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
               "RelativeDocumentMoniker": "Main\\Standard_Operations\\Join.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Join.cs",
               "RelativeToolTip": "Main\\Standard_Operations\\Join.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwGsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:40:40.197Z"
+              "WhenOpened": "2025-08-05T07:40:40.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
-              "RelativeDocumentMoniker": "Main\\Data.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Data.cs",
-              "RelativeToolTip": "Main\\Data.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Element.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Element.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Element.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Element.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:33:11.512Z"
+              "WhenOpened": "2025-08-06T03:20:17.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "Restriction_Projection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Restriction_Projection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Restriction_Projection.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Restriction_Projection.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:51:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quantifier.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Quantifier.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Quantifier.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Quantifier.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Quantifier.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:16:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Partitioning.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Partitioning.cs",
+              "RelativeDocumentMoniker": "Main\\Standard_Operations\\Partitioning.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Partitioning.cs",
+              "RelativeToolTip": "Main\\Standard_Operations\\Partitioning.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:47:23.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Ordering.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
               "RelativeDocumentMoniker": "Main\\Standard_Operations\\Ordering.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\Main\\Standard_Operations\\Ordering.cs",
               "RelativeToolTip": "Main\\Standard_Operations\\Ordering.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T07:40:17.112Z"
+              "WhenOpened": "2025-08-05T07:40:17.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\LINQ_Example1\\LINQ_Example1\\Program.cs",
               "RelativeDocumentMoniker": "LINQ_Example1\\Program.cs",
@@ -133,18 +269,6 @@
               "ViewState": "AgIAAMUAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T11:11:46.021Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
